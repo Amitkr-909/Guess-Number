@@ -33,7 +33,7 @@ guess-the-number/
 
 ## ⚙️ How to Run
 ### 1. Clone the repository:
-  git clone https://github.com/your-username/guess-the-number.git
+  git clone https://github.com/Amitkr-909/guess-the-number.git
 
 ### 2. Open the project folder:
   cd guess-the-number
